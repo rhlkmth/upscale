@@ -1,3 +1,4 @@
-altair
-pandas
-streamlit
+streamlit==1.22.0
+fal-client==0.5.0
+Pillow==9.5.0
+requests==2.28.2
